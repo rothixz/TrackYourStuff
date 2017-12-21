@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\6cceb292a9aeb724c8fd0eb0ed63d20ee389415f\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\6cceb292a9aeb724c8fd0eb0ed63d20ee389415f\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/brunofmh/.android/build-cache/cdc1979b5a1ebd2aac3090d8e2fc17f04f101386/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/mota/.android/build-cache/26a3a5f8806f918fdc85532ef3272b9860d3591f/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/brunofmh/.android/build-cache/cdc1979b5a1ebd2aac3090d8e2fc17f04f101386/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/brunofmh/.android/build-cache/cdc1979b5a1ebd2aac3090d8e2fc17f04f101386/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/mota/.android/build-cache/26a3a5f8806f918fdc85532ef3272b9860d3591f/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\6cceb292a9aeb724c8fd0eb0ed63d20ee389415f\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/mota/.android/build-cache/26a3a5f8806f918fdc85532ef3272b9860d3591f/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

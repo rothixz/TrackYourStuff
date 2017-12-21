@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TrackYourStuff</string>
+    <string name="title_activity_maps">TrackYourStuff</string>
+    <string name="track">Track</string>
+    <string name="drawer_title">TrackYourStuff</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="confirm">Confirmation</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_location_permission">GPS permition</string>
+    <string name="text_location_permission">Do you allow the usage of your GPS?</string>
+    <string name="prefs">prefs</string>
+    <string name="transport_id">transport_id</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="enter_transport_id">Enter transport ID</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="location_permissions_required">Location permissions are required for tracking
+        location. Please grant these permissions to continue.</string>
+    <string name="missing_inputs">Please enter a transport ID</string>
+    <string name="tracking">Tracking &#x2713;</string>
+    <string name="not_tracking">Not tracking &#x2718;</string>
+    <string name="connecting">Connecting &#8230;</string>
+    <string name="status">status</string>
+    <string name="location_permission_required">Location permission required.</string>
+    <string name="gps_required">Gps not enabled.</string>
+    <string name="ok">OK</string>
+    <string name="enable">Enable</string>
+    <string name="auth_failed">Firebase authentication failed</string>
+    <string name="confirm_stop">Do you really want to disable location tracking?</string>
+
+    <string name="firebase_path" translatable="false">raw-locations/</string>
+    <string name="email" translatable="false">email</string>
+    <string name="password" translatable="false">password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="verify_email">Verify email</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="title_activity_catalog">CatalogActivity</string>
+
+    <string name="nfc_rating">From 1 to 5 choose the rating you would like to give the delivery system (take in consideration delivery time and package integrity)</string>
+    <string name="nfc_use">Touch your device with the courier to finalize delivery and provide rating</string>
+    <string name="nfc_staff">Touch your device with the clients to finalize delivery and receive rating</string>
+    <string name="nfc_complete">The delivery process has been completed</string>
+    <string name="notificationtitle">Notification</string>
+
+</resources>

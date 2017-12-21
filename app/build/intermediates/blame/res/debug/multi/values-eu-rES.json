@@ -1,0 +1,1157 @@
+[
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 112,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 112,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 113,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 113,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 117,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 117,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 95,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 95,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 85,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 85,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 97,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 97,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 104,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 104,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 94,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 94,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 94,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 94,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 95,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 95,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 92,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 92,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 111,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 111,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 123,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 123,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 85,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 85,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 89,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 89,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 92,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 92,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 111,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 111,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endColumn": 86,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1883,
+                        "endColumn": 86,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 93,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 93,
+                        "endOffset": 2059
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 112,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 112,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 113,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 113,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 117,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 117,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 95,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 95,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 85,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 85,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 97,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 97,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 104,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 104,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 94,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 94,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 94,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 94,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 95,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 95,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 92,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 92,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 111,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 111,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 123,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 123,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 85,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 85,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 89,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 89,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 92,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 92,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 111,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 111,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endColumn": 86,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1883,
+                        "endColumn": 86,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 93,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 93,
+                        "endOffset": 2059
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 112,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 112,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 113,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 113,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 117,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 117,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 95,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 95,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 85,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 85,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 97,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 97,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 104,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 104,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 94,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 94,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 94,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 94,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 95,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 95,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 92,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 92,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 111,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 111,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 123,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 123,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 85,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 85,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 89,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 89,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 92,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 92,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 111,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 111,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endColumn": 86,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1883,
+                        "endColumn": 86,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 93,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-eu-rES/values-eu-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 93,
+                        "endOffset": 2059
+                    }
+                }
+            }
+        ]
+    }
+]

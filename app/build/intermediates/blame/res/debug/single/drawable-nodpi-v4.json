@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/home/mota/.android/build-cache/42436cf95478926db13fbe727fa2ab759981d513/output/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/home/brunofmh/.android/build-cache/15af16082ce89efc740a2bd873eb411fba4c6d06/output/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/home/brunofmh/.android/build-cache/15af16082ce89efc740a2bd873eb411fba4c6d06/output/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\504fd3d4e1ec0e1ea26790db8ac35339490352b2\\output\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\504fd3d4e1ec0e1ea26790db8ac35339490352b2\\output\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/home/mota/.android/build-cache/42436cf95478926db13fbe727fa2ab759981d513/output/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    }
+]

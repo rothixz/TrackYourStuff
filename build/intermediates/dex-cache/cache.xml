@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mota/.android/build-cache/5c7b79243d03f572f657c0b1aad0606902c0543d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="74d45150416ad644b27f9a0f4b5e25741145b3d4">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cdf0869dfbdf5ea4fc7f2ee5ce222c8ee88f6de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.25_6470e71c9f1a5570deb17ce093d2ae2c2ae908b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1201bf2e48a05a34e8469de95609c3fe52a8e3d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/com.google.maps/google-maps-services/0.1.20/1e0937a4dba57b19d8ea542a8da285f2a96035ab/google-maps-services-0.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e0937a4dba57b19d8ea542a8da285f2a96035ab">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-maps-services-0.1.20_f29ecf4ab4e107e8efe1dc8429dc8315602593da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.7/6eb2e87ddb09e944bb88f06f19ba0638d4607ffd/joda-time-2.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.7_1a37cd0ebac6e4f5f6ea5d6a5d0ac2db199d2c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.android/build-cache/37fdb5d3062711394f6950a793aa9cdb28315ae3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4700dbbcdfa0b1db1e6abab8f79d9ce4058fc04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.5_7898ad480b1741360f590b8f45bfe2a93fc6557f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mota/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_e5ebab520b7eb7bdb50853e4fc879131eebcb223/classes.dex" />
+    </item>
+
+</items>

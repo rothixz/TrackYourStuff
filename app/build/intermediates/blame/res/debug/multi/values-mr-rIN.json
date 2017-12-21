@@ -1,0 +1,1157 @@
+[
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 105,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 105,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 110,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 110,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 111,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 98,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 98,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 88,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 88,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 91,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 91,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 110,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 110,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 97,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 97,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 98,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 98,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 99,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 99,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 96,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 96,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 116,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 116,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 108,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 108,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 83,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 83,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 84,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 84,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 94,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 94,
+                        "endOffset": 1752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1757,
+                    "endColumn": 103,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1757,
+                        "endColumn": 103,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 85,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 85,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 96,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 96,
+                        "endOffset": 2039
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr-rIN\\values-mr-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 105,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 105,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 110,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 110,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 111,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 98,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 98,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 88,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 88,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 91,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 91,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 110,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 110,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 97,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 97,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 98,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 98,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 99,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 99,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 96,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 96,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 116,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 116,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 108,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 108,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 83,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 83,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 84,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 84,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 94,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 94,
+                        "endOffset": 1752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1757,
+                    "endColumn": 103,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1757,
+                        "endColumn": 103,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 85,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 85,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 96,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 96,
+                        "endOffset": 2039
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 105,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 105,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 110,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 110,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 111,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 98,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 98,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 88,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 88,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 91,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 91,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 110,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 110,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 97,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 97,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 98,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 98,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 99,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 99,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 96,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 96,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 116,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 116,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 108,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 108,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 83,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 83,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 84,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 84,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 94,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 94,
+                        "endOffset": 1752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1757,
+                    "endColumn": 103,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1757,
+                        "endColumn": 103,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 85,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 85,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 96,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-mr-rIN/values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 96,
+                        "endOffset": 2039
+                    }
+                }
+            }
+        ]
+    }
+]

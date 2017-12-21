@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

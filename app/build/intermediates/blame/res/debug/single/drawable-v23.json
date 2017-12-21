@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\069d2fc1101e70483108daa55fdb19f283ba75cd\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/brunofmh/.android/build-cache/43545485dfbd7209019bf308941c491ec93ff936/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mota/.android/build-cache/88a71de8eaf8a34975883257c6a158c0ff4cdba9/output/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/rootView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/io_grays2"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                tools:context="com.trackyourstuff.mota.trackyourstuff.activities.TrackerActivity"
+                tools:showIn="@layout/content_main">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            app:theme="@style/ToolBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/switch_off"
+            app:navigationIcon="?attr/homeAsUpIndicator" />
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="68dp"
+        android:padding="@dimen/activity_horizontal_margin"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="4dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_background"
+            android:padding="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/textPrimary"
+                android:text="@string/app_name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/textPrimary"
+                android:textColorHighlight="@color/textPrimary"
+                android:textColorHint="@color/textPrimary"
+                android:textColorLink="@color/textPrimary"/>
+
+            <TextView
+                android:id="@+id/permissionText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/textPrimary"
+                android:text="@string/location_permissions_required"
+                android:textAlignment="center"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/textPrimary"
+                android:textColorHighlight="@color/textPrimary"
+                android:textColorHint="@color/textPrimary"
+                android:textColorLink="@color/textPrimary"
+                android:visibility="invisible"/>
+
+            <EditText
+                android:id="@+id/transport_id"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/permissionText"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="@color/textPrimary"
+                android:hint="@string/enter_transport_id"
+                android:maxLines="1"
+                android:textColor="@color/textPrimary"
+                android:textColorHighlight="@color/textPrimary"
+                android:textColorHint="@color/io_accent5"/>
+
+            <Button
+                android:id="@+id/button_start"
+                android:layout_marginTop="40dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/password"
+                android:layout_centerHorizontal="true"
+                android:text="@string/start_tracking"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,1157 @@
+[
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs-rBA\\values-bs-rBA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 109,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 113,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 113,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 118,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 118,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 125,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 125,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 95,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 95,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 87,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 87,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 93,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 93,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 105,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 105,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 97,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 97,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 92,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 92,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 95,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 95,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 92,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 92,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 116,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 116,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 116,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 116,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 86,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 86,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endColumn": 88,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 88,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 98,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 98,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 108,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 108,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 85,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 85,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 93,
+                    "endOffset": 2081
+                },
+                "from": {
+                    "file": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\eb108bf48423f1f48a4a1b2a5fc0d6ded4f38e6e\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 93,
+                        "endOffset": 2081
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 109,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 113,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 113,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 118,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 118,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 125,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 125,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 95,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 95,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 87,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 87,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 93,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 93,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 105,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 105,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 97,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 97,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 92,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 92,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 95,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 95,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 92,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 92,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 116,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 116,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 116,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 116,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 86,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 86,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endColumn": 88,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 88,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 98,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 98,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 108,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 108,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 85,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 85,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 93,
+                    "endOffset": 2081
+                },
+                "from": {
+                    "file": "/home/mota/.android/build-cache/b9edc2a5830869f83998341cf35faa973cdd5b6c/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 93,
+                        "endOffset": 2081
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/brunofmh/TrackYourStuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 109,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 113,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 113,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 118,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 118,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 125,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 125,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 95,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 95,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 87,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 87,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 93,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 93,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 105,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 105,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 97,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 97,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 92,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 92,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 95,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 95,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 92,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 92,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 116,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 116,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 116,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 116,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 86,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 86,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endColumn": 88,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 88,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 98,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 98,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 108,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 108,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 85,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 85,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 93,
+                    "endOffset": 2081
+                },
+                "from": {
+                    "file": "/home/brunofmh/.android/build-cache/be1641e53cb3e8bd566a5147009a89474aac22bd/output/res/values-bs-rBA/values-bs-rBA.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 93,
+                        "endOffset": 2081
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\src\\main\\res\\menu\\main_activity.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_transporter_drawer.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\src\\main\\res\\menu\\activity_home_transporter_drawer.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/activity_home_transporter_drawer.xml",
+        "source": "/home/brunofmh/TrackYourStuff/app/src/main/res/menu/activity_home_transporter_drawer.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/brunofmh/TrackYourStuff/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
+        "source": "/home/brunofmh/TrackYourStuff/app/src/main/res/menu/main_activity.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/activity_home_client_drawer.xml",
+        "source": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/src/main/res/menu/activity_home_client_drawer.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
+        "source": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/src/main/res/menu/main_activity.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_client_drawer.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\src\\main\\res\\menu\\activity_home_client_drawer.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/activity_home_client_drawer.xml",
+        "source": "/home/brunofmh/TrackYourStuff/app/src/main/res/menu/activity_home_client_drawer.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/menu/activity_home_transporter_drawer.xml",
+        "source": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/src/main/res/menu/activity_home_transporter_drawer.xml"
+    }
+]

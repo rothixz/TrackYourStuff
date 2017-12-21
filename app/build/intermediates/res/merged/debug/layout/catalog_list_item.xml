@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/io_grays2"
+    android:padding= "10dp">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:background="@color/io_grays2"
+        android:layout_height="match_parent"
+        card_view:cardBackgroundColor="@color/switch_off"
+        card_view:cardCornerRadius="2dp">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+                android:layout_width="90dp"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:id="@+id/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@mipmap/ic_launcher"/>
+            </LinearLayout>
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginTop="4dp"
+                    android:textStyle="bold"
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pizza_name"
+                    android:textColor="@color/io_grays2"/>
+                <TextView
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginTop="4dp"
+                    android:textStyle="italic"
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pizza_description"
+                    android:textColor="@color/io_grays2"/>
+                <TextView
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginTop="4dp"
+
+                    android:layout_marginRight="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pizza_ingredients"
+                    android:textColor="@color/io_grays2"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <TextView
+                    android:textSize="32sp"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginRight="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:text=""
+                    android:textAlignment="gravity"
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/pizza_cost"
+                    android:textColor="@color/io_grays2"/>
+            </LinearLayout>
+           </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

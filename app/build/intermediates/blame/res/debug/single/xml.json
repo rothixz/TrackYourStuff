@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\xml\\remote_config_defaults.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\src\\main\\res\\xml\\remote_config_defaults.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/xml/remote_config_defaults.xml",
+        "source": "/home/brunofmh/TrackYourStuff/app/src/main/res/xml/remote_config_defaults.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/xml/remote_config_defaults.xml",
+        "source": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/src/main/res/xml/remote_config_defaults.xml"
+    }
+]

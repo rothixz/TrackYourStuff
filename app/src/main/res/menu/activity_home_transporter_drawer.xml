@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item android:title="Costumer">
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_gps"
+            android:title="Start Tracking" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Available Orders" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_qr_code"
+            android:title="Collect Order" />
+        <item
+            android:id="@+id/nfc_transporter"
+            android:icon="@drawable/ic_nfc_black_24dp"
+            android:title="NFC" />
+        <item
+            android:id="@+id/itenerary"
+            android:icon="@drawable/ic_itenerary"
+            android:title="Itenerary" />
+
+
+    </item>
+
+    </group>
+    <!--
+        <item android:title="Utilities">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Send" />
+            </menu>
+        </item>
+     -->
+</menu>

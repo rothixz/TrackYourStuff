@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\Documents\\cm\\TrackYourStuff\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "/home/brunofmh/TrackYourStuff/C:\\Users\\lenovo\\.android\\build-cache\\f96b099a78ac83c2dfc0e2ecb25a7e46025db173\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/brunofmh/TrackYourStuff/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/brunofmh/.android/build-cache/21c217547d5afb261ff2c28e0180c460a3173413/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mota/AndroidStudioProjects/TrackYourStuff/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/mota/.android/build-cache/f11744fbc7ef11f41d18c265d990649a269cd5eb/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]
